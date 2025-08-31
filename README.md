@@ -17,4 +17,5 @@ tasks:
     time: "HH:mm"
     commands:
     - "quest clear daily"
+    - "quest clear weekly"
 ```
