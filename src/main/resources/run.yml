@@ -1,0 +1,7 @@
+# BTRuncommand 파일
+# 이 파일에 명령어를 다음과 같이 작성하세요.
+tasks:
+  - name: "안녕이라는 커맨드를 보내는 구문입니다."
+    time: "18:00"
+    commands:
+      - "say 안녕"

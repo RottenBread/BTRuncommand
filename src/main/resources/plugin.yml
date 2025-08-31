@@ -1,0 +1,13 @@
+name: BTRuncommand
+version: '1.1'
+main: org.rottenbread.bTRuncommand.BTRuncommand
+api-version: '1.21'
+commands:
+  btruncmd:
+    description: 플러그인을 리로드합니다.
+    usage: /<command> reload
+    permission: btruncmd.reload
+
+permissions:
+  btruncmd.reload:
+    default: op
